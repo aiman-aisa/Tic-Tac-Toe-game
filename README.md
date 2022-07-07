@@ -1,5 +1,4 @@
-# Projects_Talentlabs
-This is a repository of the projects I did in my Data Analytics training program under Talentlab
+# Tic-Tac-Toe
 
 The game involves two players, 'X' player and 'O' player.
 The game will start by printing the Tic-Tac-Toe board with numbers 1-9 on every tiles.
